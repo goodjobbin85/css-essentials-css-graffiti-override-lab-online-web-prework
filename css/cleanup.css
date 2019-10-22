@@ -24,6 +24,6 @@ div#wall div.parent div:nth-last-of-type(1) {
   display: none;
 }
 
-body div#wall div.parent div:nth-cihld(1) #tag-7 { 
+body div#wall div.parent div:nth-cihld(1) { 
   display: none;
 }
